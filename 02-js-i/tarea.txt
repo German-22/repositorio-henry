@@ -1,0 +1,7 @@
+Variables: Una variable es un espacio de memoria en el que se puede almacenar información durante la ejecución de un programa y a la cual se la define con un nombre para poder hacer referencia a esta durante la ejecución del programa.
+String: Es un tipo de variable, en la que se almacena una cadena de texto y se definen colocando dicho texto entre comillas.
+Funciones: Las funciones son bloques de código que se utilizan varias veces durante la ejecución de un programa, para evitar tener que escribir el mismo código cada vez, se define una función y se llama a esta cada vez que es necesario.
+Las funciones suelen utilizar argumentos, que son datos que se le deben pasar al momento en que se las llama y que estas utilizan durante su ejecución.
+Las funciones suelen contener la instrucción return, la cual hace que el programa salga de la función y continúe con la ejecución del código en el punto siguiente al llamado de la función, además esta instrucción retorna un valor el cual es el resultado de la ejecución de la función.
+Declaración if: La declaración if permite controlar el flujo del programa, ya que mediante esta el programa puede ejecutar diferentes líneas de código de acuerdo a si se cumple una condición o no.
+Valores booleanos: Es un tipo de dato el cual puede tomar solo dos valores posibles, true o false. Se utilizan al evaluar condiciones, cuyo resultado siempre tendrá solo dos valores posibles, verdadero o falso.
