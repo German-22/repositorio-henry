@@ -1,0 +1,8 @@
+for: Es una sentencia que forma un bucle, es decir ejecuta una parte del programa una y otra vez mientras se cumpla una condición.
+Al utilizar un for se define una variable, la cual se va incrementando con cada iteración y una condición que se evalua
+en cada iteración, si esta se cumple el codigo se ejecuta, de lo contrarion el bucle finaliza.
+&&,||,!: Son operadores logicos que se utilizan para evaluar varias condiciones a la vez.
+condicion1 && condicion2: es una operación cuyo resultado es true solo si ambas condiciones son true, en caso contrario devolvera false.
+condicion1 || condicion2: el resultado es true si una de las condiciones es true, si ambas condiciones son false devolvera false.
+!: Es el operador de negacion, este devuelve el valor booleano opuesto. Se suele utilizar para evaluar desigualdades !==.
+
