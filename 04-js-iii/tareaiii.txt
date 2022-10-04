@@ -1,0 +1,3 @@
+Arrays: Los Arrays son un tipo de variable en las que se almacenan un conjunto de datos de manera ordenada, 
+a los que se puede acceder mediante un indice el cual identifica la posicion que ocupa cada dato dentro del Array, 
+comenzando por la posicion 0, la cual la ocupa el primer elemento.
