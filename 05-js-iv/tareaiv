@@ -1,0 +1,9 @@
+Objetos: Los objetos son un tipo de estructura en el que se almacena informacion.
+Dicha informacion se guarda en forma de diferentes propiedades o valores que tiene el objetos.
+De la misma forma que en un array se puede acceder a la informacion almacenada mediante un indice, en los objetos se accede mediante el nombre de las propiedades.
+Propiedades: las propiedades son los valores almacenados en el objeto, a los cuales se puede 
+acceder mediante un nombre (key).
+Metodo: Los objetos tambien son capaces de almacenar funciones, a las cuales se las llama metodos.
+Bucle for - in: es un bucle que trabaja de manera similar al for, pero como los objetos 
+no tienen un indice con el que se puedan recorrer, el for in recorre todos los valores del objeto.
+Notacion de puntos y de corchetes: Son las dos formas de acceder a los valores almacenados en un objeto. La notacion de puntos tiene la forma objeto.clave y la notacion de corchetes objeto ["clave"]. La notacion de punto tiene la ventaja de la facilidad en la escritura pero tiene algunas limitaciones, por ejemplo en el caso en el que queramos acceder a un valor cuya clave esta almacenada en una variable (objeto.variable), obtendremos undefined, ya que lo que el interprete buscara sera una clave llamada variable y no la clave cuyo nombre se almaceno en la variable.
